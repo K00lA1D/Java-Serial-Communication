@@ -7,7 +7,7 @@ Written by Siddhartha Nair
 
 Uses the jserialcomm package to read data through the serial port
 
-Works with DI-100, DI-1000, and Iload Cells
+Works with DI-100, DI-1000, and ILoad Cells
 (only reads weight from iLoad Cells))
 
 
