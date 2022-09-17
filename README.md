@@ -1,18 +1,18 @@
-## Getting Started
+**JAVA Project**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Class-based Java Serial Communication
 
-## Folder Structure
+Written by Siddhartha Nair
+9/16/2022
 
-The workspace contains two folders by default, where:
+Uses the jserialcomm package to read data through the serial port
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Works with DI-100, DI-1000, and Iload Cells
+(only reads weight from iLoad Cells))
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+main method in inside LoadstarSensor.java
 
-## Dependency Management
+Run LoadstarSensor.java to start the program
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+In VS-Code, click run above the main-method or the start arrow in the upper right corner of the window
